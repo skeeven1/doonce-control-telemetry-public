@@ -8,7 +8,7 @@
     "mainWindowHandle":  "31985820",
     "title":  "DoOnce",
     "processName":  "electron",
-    "message":  "DoOnce lance via npm run start (apps\\desktop); fenetre visible confirmee.",
+    "message":  "Issue #2 ouverte; fenetre DoOnce visible.",
     "launchLogTail":  "\n\u003e @doonce/desktop@0.1.0 start\n\u003e electron .\n\n",
     "appDir":  "C:\\Users\\Skeebug\\Desktop\\doonce",
     "powerShellVersion":  "5.1.26100.9444",
@@ -34,7 +34,7 @@
                         "npm run start --workspace @doonce/desktop",
                         "Electron local direct: C:\\Users\\Skeebug\\Desktop\\doonce\\apps\\desktop\\node_modules\\.bin\\electron.cmd ."
                     ],
-    "updatedAt":  "2026-09-13T21:40:05.8314923Z",
+    "updatedAt":  "2026-09-13T21:41:42.9569646Z",
     "agentVersion":  "12.5.0",
     "telemetryRepo":  "skeeven1/doonce-control-telemetry-public",
     "controlRule":  "public issue open=running; closed=stopped",
