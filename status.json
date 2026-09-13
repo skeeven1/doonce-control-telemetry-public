@@ -10,7 +10,7 @@
     "processName":  "",
     "message":  "Issue #2 fermee; DoOnce est arrete.",
     "launchLogTail":  "",
-    "updatedAt":  "2026-09-13T21:23:50.4916912Z",
+    "updatedAt":  "2026-09-13T21:25:22.7664343Z",
     "agentVersion":  "12.2.0",
     "telemetryRepo":  "skeeven1/doonce-control-telemetry-public",
     "controlRule":  "public issue open=running; closed=stopped"
