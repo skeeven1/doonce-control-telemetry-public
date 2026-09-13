@@ -8,10 +8,10 @@
     "mainWindowHandle":  "0",
     "title":  "",
     "processName":  "",
-    "message":  "Bootstrap V12.2 authentifie avec skeeven1; preflight phase B.",
+    "message":  "Issue #2 fermee; DoOnce est arrete.",
     "launchLogTail":  "",
-    "updatedAt":  "2026-09-13T21:17:46.9070643Z",
-    "agentVersion":  "bootstrap-12.2-B",
+    "updatedAt":  "2026-09-13T21:17:50.0643533Z",
+    "agentVersion":  "12.2.0",
     "telemetryRepo":  "skeeven1/doonce-control-telemetry-public",
     "controlRule":  "public issue open=running; closed=stopped"
 }
