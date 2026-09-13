@@ -1,0 +1,36 @@
+{
+  "protocol": "chatgpt-local-bridge-v15",
+  "agentVersion": "15.0.0",
+  "online": true,
+  "sessionId": "7e43bda8940c1f27f6c4977b47a6b47e",
+  "startedAt": "2026-09-13T22:56:05.370Z",
+  "heartbeatAt": "2026-09-13T22:56:06.471Z",
+  "workspaces": [
+    "doonce"
+  ],
+  "capabilities": [
+    "pc-status",
+    "list-workspaces",
+    "list-dir",
+    "search-text",
+    "read-file",
+    "write-file",
+    "copy-file",
+    "move-file",
+    "mkdir",
+    "delete-file",
+    "list-processes",
+    "list-windows",
+    "list-apps",
+    "launch-app",
+    "stop-process",
+    "run-task",
+    "npm-script",
+    "git-status",
+    "git-diff",
+    "git-log",
+    "git-commit"
+  ],
+  "commandTransport": "github-authenticated-json",
+  "telemetryTransport": "aes-256-gcm+hmac-sha256"
+}
