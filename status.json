@@ -10,7 +10,7 @@
     "processName":  "",
     "message":  "Issue #2 fermee; DoOnce est arrete.",
     "launchLogTail":  "npm error Missing script: \"dev:desktop\"\nnpm error\nnpm error To see a list of scripts, run:\nnpm error   npm run\nnpm error A complete log of this run can be found in: C:\\Users\\Skeebug\\AppData\\Local\\npm-cache\\_logs\\2026-09-13T21_18_31_311Z-debug-0.log\nnpm error Missing script: \"dev:desktop\"\nnpm error\nnpm error To see a list of scripts, run:\nnpm error   npm run\nnpm error A complete log of this run can be found in: C:\\Users\\Skeebug\\AppData\\Local\\npm-cache\\_logs\\2026-09-13T21_19_38_852Z-debug-0.log",
-    "updatedAt":  "2026-09-13T21:20:45.2854728Z",
+    "updatedAt":  "2026-09-13T21:22:18.5611784Z",
     "agentVersion":  "12.2.0",
     "telemetryRepo":  "skeeven1/doonce-control-telemetry-public",
     "controlRule":  "public issue open=running; closed=stopped"
