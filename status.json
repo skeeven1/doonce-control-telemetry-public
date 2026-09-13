@@ -1,0 +1,17 @@
+{
+    "channel":  "github-split-v12.2",
+    "commandIssue":  "lavaury/goodissima-mvp#2",
+    "commandIssueState":  "closed",
+    "desiredState":  "stopped",
+    "state":  "not-running",
+    "pid":  null,
+    "mainWindowHandle":  "0",
+    "title":  "",
+    "processName":  "",
+    "message":  "Bootstrap V12.2 authentifie avec skeeven1; preflight phase A.",
+    "launchLogTail":  "",
+    "updatedAt":  "2026-09-13T21:17:44.2422884Z",
+    "agentVersion":  "bootstrap-12.2-A",
+    "telemetryRepo":  "skeeven1/doonce-control-telemetry-public",
+    "controlRule":  "public issue open=running; closed=stopped"
+}
