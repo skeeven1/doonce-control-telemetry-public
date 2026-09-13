@@ -1,5 +1,5 @@
 {
-    "channel":  "github-split-v12.2",
+    "channel":  "github-split-v12.3",
     "commandIssue":  "lavaury/goodissima-mvp#2",
     "commandIssueState":  "closed",
     "desiredState":  "stopped",
@@ -8,10 +8,20 @@
     "mainWindowHandle":  "0",
     "title":  "",
     "processName":  "",
-    "message":  "Issue #2 fermee; DoOnce est arrete.",
-    "launchLogTail":  "npm error Missing script: \"dev:desktop\"\nnpm error\nnpm error To see a list of scripts, run:\nnpm error   npm run\nnpm error A complete log of this run can be found in: C:\\Users\\Skeebug\\AppData\\Local\\npm-cache\\_logs\\2026-09-13T21_18_31_311Z-debug-0.log\nnpm error Missing script: \"dev:desktop\"\nnpm error\nnpm error To see a list of scripts, run:\nnpm error   npm run\nnpm error A complete log of this run can be found in: C:\\Users\\Skeebug\\AppData\\Local\\npm-cache\\_logs\\2026-09-13T21_19_38_852Z-debug-0.log",
-    "updatedAt":  "2026-09-13T21:22:18.5611784Z",
-    "agentVersion":  "12.2.0",
+    "message":  "Bootstrap V12.3 authentifie avec skeeven1; preflight phase A.",
+    "launchLogTail":  "",
+    "appDir":  "C:\\Users\\Skeebug\\Desktop\\doonce",
+    "rootScripts":  [
+
+                    ],
+    "desktopScripts":  [
+
+                       ],
+    "launchPlans":  [
+
+                    ],
+    "updatedAt":  "2026-09-13T21:22:36.2032389Z",
+    "agentVersion":  "bootstrap-12.3-A",
     "telemetryRepo":  "skeeven1/doonce-control-telemetry-public",
     "controlRule":  "public issue open=running; closed=stopped"
 }
