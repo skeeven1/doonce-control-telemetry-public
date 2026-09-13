@@ -1,41 +1,17 @@
 {
-    "channel":  "github-split-v12.4",
+    "channel":  "github-split-v12.2",
     "commandIssue":  "lavaury/goodissima-mvp#2",
-    "commandIssueState":  "unknown",
-    "desiredState":  "unknown",
+    "commandIssueState":  "open",
+    "desiredState":  "running",
     "state":  "running-visible",
     "pid":  44080,
     "mainWindowHandle":  "141102054",
     "title":  "DoOnce",
     "processName":  "electron",
-    "message":  "ERREUR AGENT V12.4: gh api repos/skeeven1/doonce-control-telemetry-public/contents/status.json --method PUT --raw-field message=doonce telemetry: running running-visible --raw-field content=ew0KICAgICJjaGFubmVsIjogICJnaXRodWItc3BsaXQtdjEyLjQiLA0KICAgICJjb21tYW5kSXNzdWUiOiAgImxhdmF1cnkvZ29vZGlzc2ltYS1tdnAjMiIsDQogICAgImNvbW1hbmRJc3N1ZVN0YXRlIjogICJvcGVuIiwNCiAgICAiZGVzaXJlZFN0YXRlIjogICJydW5uaW5nIiwNCiAgICAic3RhdGUiOiAgInJ1bm5pbmctdmlzaWJsZSIsDQogICAgInBpZCI6ICA0NDA4MCwNCiAgICAibWFpbldpbmRvd0hhbmRsZSI6ICAiMTQxMTAyMDU0IiwNCiAgICAidGl0bGUiOiAgIkRvT25jZSIsDQogICAgInByb2Nlc3NOYW1lIjogICJlbGVjdHJvbiIsDQogICAgIm1lc3NhZ2UiOiAgIkRvT25jZSBsYW5jZSB2aWEgbnBtIHJ1biBzdGFydCAoYXBwc1xcZGVza3RvcCk7IGZlbmV0cmUgdmlzaWJsZSBjb25maXJtZWUuIiwNCiAgICAibGF1bmNoTG9nVGFpbCI6ICAiXG5cdTAwM2UgQGRvb25jZS9kZXNrdG9wQDAuMS4wIHN0YXJ0XG5cdTAwM2UgZWxlY3Ryb24gLlxuXG4iLA0KICAgICJhcHBEaXIiOiAgIkM6XFxVc2Vyc1xcU2tlZWJ1Z1xcRGVza3RvcFxcZG9vbmNlIiwNCiAgICAicG93ZXJTaGVsbFZlcnNpb24iOiAgIjUuMS4yNjEwMC45NDQ0IiwNCiAgICAicm9vdFNjcmlwdHMiOiAgWw0KICAgICAgICAgICAgICAgICAgICAgICAgImJ1aWxkIiwNCiAgICAgICAgICAgICAgICAgICAgICAgICJ0ZXN0IiwNCiAgICAgICAgICAgICAgICAgICAgICAgICJ0eXBlY2hlY2siDQogICAgICAgICAgICAgICAgICAgIF0sDQogICAgImRlc2t0b3BTY3JpcHRzIjogIFsNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICJidWlsZCIsDQogICAgICAgICAgICAgICAgICAgICAgICAgICAiYnVpbGQ6bWFpbiIsDQogICAgICAgICAgICAgICAgICAgICAgICAgICAiYnVpbGQ6cmVuZGVyZXIiLA0KICAgICAgICAgICAgICAgICAgICAgICAgICAgImRldiIsDQogICAgICAgICAgICAgICAgICAgICAgICAgICAicGFja2FnZTp3aW4iLA0KICAgICAgICAgICAgICAgICAgICAgICAgICAgInN0YXJ0IiwNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICJ0ZXN0IiwNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICJ0eXBlY2hlY2siDQogICAgICAgICAgICAgICAgICAgICAgIF0sDQogICAgImxhdW5jaFBsYW5zIjogIFsNCiAgICAgICAgICAgICAgICAgICAgICAgICJucG0gcnVuIGRldiAoYXBwc1xcZGVza3RvcCkiLA0KICAgICAgICAgICAgICAgICAgICAgICAgIm5wbSBydW4gc3RhcnQgKGFwcHNcXGRlc2t0b3ApIiwNCiAgICAgICAgICAgICAgICAgICAgICAgICJucG0gcnVuIGRldiAtLXdvcmtzcGFjZSBAZG9vbmNlL2Rlc2t0b3AiLA0KICAgICAgICAgICAgICAgICAgICAgICAgIm5wbSBydW4gc3RhcnQgLS13b3Jrc3BhY2UgQGRvb25jZS9kZXNrdG9wIiwNCiAgICAgICAgICAgICAgICAgICAgICAgICJFbGVjdHJvbiBsb2NhbCBkaXJlY3Q6IEM6XFxVc2Vyc1xcU2tlZWJ1Z1xcRGVza3RvcFxcZG9vbmNlXFxhcHBzXFxkZXNrdG9wXFxub2RlX21vZHVsZXNcXC5iaW5cXGVsZWN0cm9uLmNtZCAuIg0KICAgICAgICAgICAgICAgICAgICBdLA0KICAgICJ1cGRhdGVkQXQiOiAgIjIwMjYtMDktMTNUMjE6Mjg6NDkuMTY5NDg5N1oiLA0KICAgICJhZ2VudFZlcnNpb24iOiAgIjEyLjQuMCIsDQogICAgInRlbGVtZXRyeVJlcG8iOiAgInNrZWV2ZW4xL2Rvb25jZS1jb250cm9sLXRlbGVtZXRyeS1wdWJsaWMiLA0KICAgICJjb250cm9sUnVsZSI6ICAicHVibGljIGlzc3VlIG9wZW49cnVubmluZzsgY2xvc2VkPXN0b3BwZWQiDQp9Cg== --raw-field branch=main --raw-field sha=2fc5ef4d75bea7e4e66f7dcebb4909fc3a57bf15 a echoue (code 1):\n{\"message\":\"status.json does not match 2fc5ef4d75bea7e4e66f7dcebb4909fc3a57bf15\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"409\"}",
+    "message":  "Issue #2 ouverte; fenetre DoOnce visible.",
     "launchLogTail":  "\n\u003e @doonce/desktop@0.1.0 start\n\u003e electron .\n\n",
-    "appDir":  "C:\\Users\\Skeebug\\Desktop\\doonce",
-    "powerShellVersion":  "5.1.26100.9444",
-    "rootScripts":  [
-                        "build",
-                        "test",
-                        "typecheck"
-                    ],
-    "desktopScripts":  [
-                           "build",
-                           "build:main",
-                           "build:renderer",
-                           "dev",
-                           "package:win",
-                           "start",
-                           "test",
-                           "typecheck"
-                       ],
-    "launchPlans":  [
-                        "npm run dev (apps\\desktop)",
-                        "npm run start (apps\\desktop)",
-                        "npm run dev --workspace @doonce/desktop",
-                        "npm run start --workspace @doonce/desktop",
-                        "Electron local direct: C:\\Users\\Skeebug\\Desktop\\doonce\\apps\\desktop\\node_modules\\.bin\\electron.cmd ."
-                    ],
-    "updatedAt":  "2026-09-13T21:28:50.2334500Z",
-    "agentVersion":  "12.4.0",
+    "updatedAt":  "2026-09-13T21:28:55.3910902Z",
+    "agentVersion":  "12.2.0",
     "telemetryRepo":  "skeeven1/doonce-control-telemetry-public",
     "controlRule":  "public issue open=running; closed=stopped"
 }
