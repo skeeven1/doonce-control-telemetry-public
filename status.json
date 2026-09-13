@@ -8,7 +8,7 @@
     "mainWindowHandle":  "0",
     "title":  "",
     "processName":  "",
-    "message":  "Bootstrap V12.4 authentifie avec skeeven1; preflight phase B.",
+    "message":  "Issue #2 fermee; DoOnce est arrete.",
     "launchLogTail":  "",
     "appDir":  "C:\\Users\\Skeebug\\Desktop\\doonce",
     "powerShellVersion":  "5.1.26100.9444",
@@ -34,8 +34,8 @@
                         "npm run start --workspace @doonce/desktop",
                         "Electron local direct: C:\\Users\\Skeebug\\Desktop\\doonce\\apps\\desktop\\node_modules\\.bin\\electron.cmd ."
                     ],
-    "updatedAt":  "2026-09-13T21:25:58.1366597Z",
-    "agentVersion":  "bootstrap-12.4-B",
+    "updatedAt":  "2026-09-13T21:26:01.4198701Z",
+    "agentVersion":  "12.4.0",
     "telemetryRepo":  "skeeven1/doonce-control-telemetry-public",
     "controlRule":  "public issue open=running; closed=stopped"
 }
