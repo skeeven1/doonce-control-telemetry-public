@@ -1,5 +1,5 @@
 {
-    "channel":  "github-split-v12.2",
+    "channel":  "github-split-v12.4",
     "commandIssue":  "lavaury/goodissima-mvp#2",
     "commandIssueState":  "open",
     "desiredState":  "running",
@@ -10,8 +10,32 @@
     "processName":  "electron",
     "message":  "Issue #2 ouverte; fenetre DoOnce visible.",
     "launchLogTail":  "\n\u003e @doonce/desktop@0.1.0 start\n\u003e electron .\n\n",
-    "updatedAt":  "2026-09-13T21:28:55.3910902Z",
-    "agentVersion":  "12.2.0",
+    "appDir":  "C:\\Users\\Skeebug\\Desktop\\doonce",
+    "powerShellVersion":  "5.1.26100.9444",
+    "rootScripts":  [
+                        "build",
+                        "test",
+                        "typecheck"
+                    ],
+    "desktopScripts":  [
+                           "build",
+                           "build:main",
+                           "build:renderer",
+                           "dev",
+                           "package:win",
+                           "start",
+                           "test",
+                           "typecheck"
+                       ],
+    "launchPlans":  [
+                        "npm run dev (apps\\desktop)",
+                        "npm run start (apps\\desktop)",
+                        "npm run dev --workspace @doonce/desktop",
+                        "npm run start --workspace @doonce/desktop",
+                        "Electron local direct: C:\\Users\\Skeebug\\Desktop\\doonce\\apps\\desktop\\node_modules\\.bin\\electron.cmd ."
+                    ],
+    "updatedAt":  "2026-09-13T21:29:02.2253291Z",
+    "agentVersion":  "12.4.0",
     "telemetryRepo":  "skeeven1/doonce-control-telemetry-public",
     "controlRule":  "public issue open=running; closed=stopped"
 }
