@@ -34,7 +34,7 @@
                         "npm run start --workspace @doonce/desktop",
                         "Electron local direct: C:\\Users\\Skeebug\\Desktop\\doonce\\apps\\desktop\\node_modules\\.bin\\electron.cmd ."
                     ],
-    "updatedAt":  "2026-09-13T21:35:08.0890721Z",
+    "updatedAt":  "2026-09-13T21:36:39.7247292Z",
     "agentVersion":  "12.4.0",
     "telemetryRepo":  "skeeven1/doonce-control-telemetry-public",
     "controlRule":  "public issue open=running; closed=stopped"
