@@ -8,7 +8,7 @@
     "mainWindowHandle":  "0",
     "title":  "",
     "processName":  "",
-    "message":  "Bootstrap V12.3 authentifie avec skeeven1; preflight phase A.",
+    "message":  "Bootstrap V12.3 authentifie avec skeeven1; preflight phase B.",
     "launchLogTail":  "",
     "appDir":  "C:\\Users\\Skeebug\\Desktop\\doonce",
     "rootScripts":  [
@@ -20,8 +20,8 @@
     "launchPlans":  [
 
                     ],
-    "updatedAt":  "2026-09-13T21:22:36.2032389Z",
-    "agentVersion":  "bootstrap-12.3-A",
+    "updatedAt":  "2026-09-13T21:22:38.7623973Z",
+    "agentVersion":  "bootstrap-12.3-B",
     "telemetryRepo":  "skeeven1/doonce-control-telemetry-public",
     "controlRule":  "public issue open=running; closed=stopped"
 }
