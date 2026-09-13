@@ -1,10 +1,10 @@
 {
   "protocol": "chatgpt-local-bridge-v15",
-  "agentVersion": "15.0.0",
+  "agentVersion": "15.1.0",
   "online": true,
-  "sessionId": "7e43bda8940c1f27f6c4977b47a6b47e",
-  "startedAt": "2026-09-13T22:56:05.370Z",
-  "heartbeatAt": "2026-09-13T23:00:58.598Z",
+  "sessionId": "65ad43d4a278117a1b26ef1c4d6a08d6",
+  "startedAt": "2026-09-13T23:01:27.828Z",
+  "heartbeatAt": "2026-09-13T23:01:28.920Z",
   "workspaces": [
     "doonce"
   ],
