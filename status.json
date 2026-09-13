@@ -1,5 +1,5 @@
 {
-    "channel":  "github-split-v12.2",
+    "channel":  "github-split-v12.4",
     "commandIssue":  "lavaury/goodissima-mvp#2",
     "commandIssueState":  "closed",
     "desiredState":  "stopped",
@@ -8,10 +8,34 @@
     "mainWindowHandle":  "0",
     "title":  "",
     "processName":  "",
-    "message":  "Issue #2 fermee; DoOnce est arrete.",
+    "message":  "Bootstrap V12.4 authentifie avec skeeven1; preflight phase A.",
     "launchLogTail":  "",
-    "updatedAt":  "2026-09-13T21:25:22.7664343Z",
-    "agentVersion":  "12.2.0",
+    "appDir":  "C:\\Users\\Skeebug\\Desktop\\doonce",
+    "powerShellVersion":  "5.1.26100.9444",
+    "rootScripts":  [
+                        "build",
+                        "test",
+                        "typecheck"
+                    ],
+    "desktopScripts":  [
+                           "build",
+                           "build:main",
+                           "build:renderer",
+                           "dev",
+                           "package:win",
+                           "start",
+                           "test",
+                           "typecheck"
+                       ],
+    "launchPlans":  [
+                        "npm run dev (apps\\desktop)",
+                        "npm run start (apps\\desktop)",
+                        "npm run dev --workspace @doonce/desktop",
+                        "npm run start --workspace @doonce/desktop",
+                        "Electron local direct: C:\\Users\\Skeebug\\Desktop\\doonce\\apps\\desktop\\node_modules\\.bin\\electron.cmd ."
+                    ],
+    "updatedAt":  "2026-09-13T21:25:55.3625921Z",
+    "agentVersion":  "bootstrap-12.4-A",
     "telemetryRepo":  "skeeven1/doonce-control-telemetry-public",
     "controlRule":  "public issue open=running; closed=stopped"
 }
