@@ -3,13 +3,13 @@
     "commandIssue":  "lavaury/goodissima-mvp#2",
     "commandIssueState":  "open",
     "desiredState":  "running",
-    "state":  "not-running",
-    "pid":  null,
-    "mainWindowHandle":  "0",
-    "title":  "",
-    "processName":  "",
-    "message":  "Bootstrap V12.5 authentifie avec skeeven1; preflight phase B.",
-    "launchLogTail":  "",
+    "state":  "running-visible",
+    "pid":  41420,
+    "mainWindowHandle":  "31985820",
+    "title":  "DoOnce",
+    "processName":  "electron",
+    "message":  "DoOnce lance via npm run start (apps\\desktop); fenetre visible confirmee.",
+    "launchLogTail":  "\n\u003e @doonce/desktop@0.1.0 start\n\u003e electron .\n\n",
     "appDir":  "C:\\Users\\Skeebug\\Desktop\\doonce",
     "powerShellVersion":  "5.1.26100.9444",
     "rootScripts":  [
@@ -34,10 +34,20 @@
                         "npm run start --workspace @doonce/desktop",
                         "Electron local direct: C:\\Users\\Skeebug\\Desktop\\doonce\\apps\\desktop\\node_modules\\.bin\\electron.cmd ."
                     ],
-    "updatedAt":  "2026-09-13T21:39:33.1025112Z",
-    "agentVersion":  "bootstrap-12.5-B",
+    "updatedAt":  "2026-09-13T21:40:05.8314923Z",
+    "agentVersion":  "12.5.0",
     "telemetryRepo":  "skeeven1/doonce-control-telemetry-public",
     "controlRule":  "public issue open=running; closed=stopped",
     "commandMailbox":  "lavaury/goodissima-mvp/.doonce-control/command.json",
-    "lastCommand":  null
+    "lastCommand":  {
+                        "id":  "bootstrap-v12.5",
+                        "action":  "status",
+                        "status":  "ok",
+                        "message":  "Etat releve: not-running",
+                        "relativePath":  "",
+                        "outputTail":  "",
+                        "fileContentBase64":  "",
+                        "fileSha256":  "",
+                        "completedAt":  "2026-09-13T21:39:36.4533121Z"
+                    }
 }
