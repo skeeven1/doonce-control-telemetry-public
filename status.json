@@ -1,5 +1,5 @@
 {
-    "channel":  "github-split-v12.3",
+    "channel":  "github-split-v12.2",
     "commandIssue":  "lavaury/goodissima-mvp#2",
     "commandIssueState":  "closed",
     "desiredState":  "stopped",
@@ -8,20 +8,10 @@
     "mainWindowHandle":  "0",
     "title":  "",
     "processName":  "",
-    "message":  "Bootstrap V12.3 authentifie avec skeeven1; preflight phase B.",
+    "message":  "Issue #2 fermee; DoOnce est arrete.",
     "launchLogTail":  "",
-    "appDir":  "C:\\Users\\Skeebug\\Desktop\\doonce",
-    "rootScripts":  [
-
-                    ],
-    "desktopScripts":  [
-
-                       ],
-    "launchPlans":  [
-
-                    ],
-    "updatedAt":  "2026-09-13T21:22:38.7623973Z",
-    "agentVersion":  "bootstrap-12.3-B",
+    "updatedAt":  "2026-09-13T21:23:50.4916912Z",
+    "agentVersion":  "12.2.0",
     "telemetryRepo":  "skeeven1/doonce-control-telemetry-public",
     "controlRule":  "public issue open=running; closed=stopped"
 }
